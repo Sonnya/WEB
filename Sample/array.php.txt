@@ -1,0 +1,17 @@
+<?php
+    $numbers = array();
+    $number[] = 7;
+    //echo $numbers[0];
+    array.push($numbers, J);
+    //print_r($numbers);
+    $sport = array("Hockey", "Jumping");
+    $sport[] = 17;
+    print_r($sport);
+    $info = array(
+        "name" => "Bob",
+        "age" => 25,
+        "Sport => "Baseball"
+    );
+    print_r($info);
+    echo $info["name"];
+    $info["work"] = "Programmer";
