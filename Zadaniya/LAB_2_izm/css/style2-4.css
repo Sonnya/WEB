@@ -1,0 +1,104 @@
+﻿*
+{
+	margin: 0;
+	padding: 0;
+}
+
+.mobile
+{
+	background: url(images24/task_mobile.png) no-repeat;	
+	background-position: 0px 15px;
+	
+	padding-left: 45px;
+	
+    font-weight: bold;
+	font-family: Tahoma;
+	font-size: 14px;
+	color: #757575;
+}
+
+.linet
+{
+    background: url(images24/linet.png) no-repeat;
+	
+	margin-left: 70px;
+	margin-bottom: -20px;
+}
+
+.fax5
+{
+	background: url(images24/task_fax.png) no-repeat;
+	background-position: 0px 11px;
+	
+	padding-left: 45px;
+	
+    font-weight: bold;
+	font-family: Tahoma;
+	font-size: 14px;
+	color: #757575;
+}
+
+.email
+{
+	background: url(images24/task_email.png) no-repeat;
+	background-position: 0px 9px;
+	
+	padding-left: 45px;
+	
+	font-weight: normal;
+	font-family: Tahoma;
+	font-size: 14px;
+	color: #757575;
+}
+.address
+{
+	background: url(images24/task_address.png) no-repeat;
+	background-position: 0px 8px;
+	
+	padding-left: 45px;
+	
+	font-weight: normal;
+	font-family: Tahoma;
+	font-size: 14px;
+	color: #757575;
+}
+
+h1
+{
+	font-family: Arial;
+	font-size: 23px;	
+	text-align: left;
+	color: #757575;
+	font-weight: normal;
+	
+	margin-left: 65px;
+	margin-bottom: 5px;
+}
+
+ul
+{
+	width: 260px;
+	list-style-type: none;
+}
+
+li
+{    	
+	padding-bottom: 8px;
+	padding-top: 15px;
+	
+	line-height: 1.7em;
+	
+	margin-left: 65px;
+}
+
+.line
+{
+	background: url(images24/task_line.png) no-repeat;
+	background-position:1% 8%;
+	
+	margin-top: 20px;
+	margin-left: 3px;
+	
+	height: 400px;
+}
+
