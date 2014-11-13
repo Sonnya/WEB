@@ -1,0 +1,176 @@
+﻿*
+{
+    margin: 0;
+	padding: 0;
+	outline: none;
+	border: none;
+}
+
+html, body
+{
+    height: 100%;
+	width: 1000px;
+	
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	
+	text-align: center;
+	
+	margin: auto;
+}
+
+.b1 
+{
+    width: 700px;
+	height: 50px;
+    background: #00FFFF;
+	display: block;
+	float: left;
+	
+}
+
+.b2 
+{
+    width: 900px;
+	height: 30px;
+    background: #33CCFF;
+	display: block;
+	float: left;
+	margin: 12px 100px 0px 0;
+	
+}
+
+.b3 
+{
+    width: 540px;
+	height: 340px;
+    background: #3399FF;
+	display: block;
+	float: left;
+	margin: 12px 0px 0 0;
+}
+
+.b31
+{
+    width: 200px;
+	height: 40px;
+    background: #9999FF;
+	display: block;
+	float: left;
+	margin: 20px 0px 0 20px;
+}
+
+.b32
+{
+    width: 250px;
+	height: 70px;
+    background: #CC66FF;
+	display: inline-block;
+	float: right;
+	margin: 20px 20px 0 0;
+}
+
+.clear
+{
+    clear: both;
+}
+
+.b33
+{
+    width: 500px;
+	height: 50px;
+    background: #FF6666;
+	display: block;
+	float: left;
+	margin: 15px 0 0 20px;
+}
+
+.b34
+{
+    width: 100px;
+	height: 70px;
+    background: #660033;
+	display: block;
+	float: left;
+	margin: 20px 0 0 20px;
+}
+
+.b35
+{
+    width: 80px;
+	height: 70px;
+    background: #000066;
+	display: inline-block;
+	float: left;
+	margin: 20px 0 0 20px;
+}
+
+.b36
+{
+    width: 100px;
+	height: 70px;
+    background: #999966;
+	display: inline-block;
+	float: right;
+	margin: 20px 20px 0 0;
+}
+
+.b4 
+{
+    width: 400px;
+	height: 300px;
+    background: #6699FF;
+	display: inline;
+	float: right;
+	margin: 12px 0 0 60px;
+}
+
+.b41
+{
+    width: 78px;
+	height: 60px;
+    background: #FF00FF;
+	display: block;
+	float: right;
+	margin: 0 0 0 0;
+}
+
+.b42
+{
+    width: 68px;
+	height: 60px;
+    background: #0033CC;
+	display: block;
+	float: right;
+	margin: 0 10px 0 0;
+}
+
+.b43
+{
+    width: 70px;
+	height: 60px;
+    background: #0033CC;
+	display: block;
+	float: left;
+	margin: 10px 0 0 0;
+}
+
+.b44
+{
+    width: 80px;
+	height: 60px;
+    background: #FF00FF;
+	display: block;
+	float: left;
+	margin: 10px 0 0 10px;
+}
+
+.b45
+{
+    width: 400px;
+	height: 50px;
+    background: #6600CC;
+	display: block;
+	float: left;
+	margin: 20px 0 0 0;
+}
