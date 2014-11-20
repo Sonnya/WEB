@@ -1,17 +1,17 @@
 ﻿*
 {
     margin: 0;
-	padding: 0;
-	outline: none;
-	border: none;
+    padding: 0;
+    outline: none;
+    border: none;
 }
 
 html, body
 {
     height: 100%;
-	width: 800px;
-	text-align: center;
-	margin: auto;
+    width: 800px;
+    text-align: center;
+    margin: auto;
 }
 
 h1 
@@ -19,13 +19,13 @@ h1
     font-size: 34px;
     font-weight: normal;
     font-family: Arial;
-	text-align: center;
-	color: #2F363A;
+    text-align: center;
+    color: #2F363A;
 	
-	border-bottom: 2px solid dodgerblue;
+    border-bottom: 2px solid dodgerblue;
 	
     padding-bottom: 1px;
-	margin-top: 15px;
+    margin-top: 15px;
 }
 
 div
@@ -37,25 +37,25 @@ p
 {
     font-family: Tahoma;
     font-weight: bold;
-	font-size: 14px;
-	color: #323232;
+    font-size: 14px;
+    color: #323232;
 }
 
 .button a
 {
- 	background: url(images33/button.png) no-repeat;	
-	width: 298px;
+    background: url(images33/button.png) no-repeat;	
+    width: 298px;
     height: 54px;
-	display: block;
 	
-	text-decoration: none;
-	font: bold 16px/1 Tahoma;
-	text-align: center;
-	color: #21252A;
+    text-decoration: none;
+    font: bold 16px/1 Tahoma;
+    text-align: center;
+    color: #21252A;
 	
     padding:18px 0 15px 3px;
-	margin-left: 260px;
-	margin-top: -60px;
+    margin-left: -147px;
+    margin-top: 0px;
+    position: absolute;
 }
 
 .button a:hover  
@@ -63,12 +63,17 @@ p
     background: url(images33/button-over.png) no-repeat;
     width: 298px;
     height: 54px;
-	display: block;	
 	
-	text-align: center;
+    text-align: center;
 	
-	margin-left: 260px;
-	margin-top: -60px;
+    margin-left: -147px;
+    margin-top: 0px;
+    position: absolute;
+}
+
+.clear
+{
+    clear: both;
 }
 
 .aztec1  
@@ -78,19 +83,19 @@ p
     width: 226px;
     height: 211px;
 	
-	padding-top: 4px;
-	padding-bottom: 5px;
-	margin-bottom: 20px;
-	float: left;
-	margin-left: 26px;
-	margin-top: 35px;
+    padding-top: 4px;
+    padding-bottom: 5px;
+    margin-bottom: 20px;
+    float: left;
+    margin-left: 26px;
+    margin-top: 35px;
 	
     text-align: center;
 	
-	border: 1px solid #000;
-	border-radius: 8px;
-	-moz-border-radius: 8px;
-	-webkit-border-radius: 8px;
+    border: 1px solid #000;
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
 }
 
 .aztec2  
@@ -102,17 +107,17 @@ p
 	
     padding-top: 4px;
     padding-bottom: 5px;
-	margin-bottom: 20px;
-	float: left;
-	margin-left: 33px;
-	margin-top: 35px;
+    margin-bottom: 20px;
+    float: left;
+    margin-left: 33px;
+    margin-top: 35px;
 	
     text-align: center;
 	
-	border: 1px solid #000;
-	border-radius: 8px;
-	-moz-border-radius: 8px;
-	-webkit-border-radius: 8px;
+    border: 1px solid #000;
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
 }
 
 .aztec3  
@@ -125,16 +130,16 @@ p
     padding-top: 4px;
     padding-bottom: 5px;
     margin-bottom: 20px;
-	float: right;
-	margin-right: 26px;
-	margin-top: 35px;
+    float: right;    
+    margin-right: 26px;
+    margin-top: 35px;
 	
     text-align: center;
 	
-	border: 1px solid #000;
-	border-radius: 8px;
-	-moz-border-radius: 8px;
-	-webkit-border-radius: 8px;
+    border: 1px solid #000;
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
 }
 
 .knopa
@@ -144,18 +149,20 @@ p
 	
     border: 1px solid #FFD700;
     border-radius: 15px;
-	
-	background-color: #BC8F8F;
-	
-	position: relative;
-	left: 484px;
-	top: -270px;
-	display: table-cell;
-	padding: 7px 0 0 3px;
-	
-	text-align: center;
-	font: bold 14px Tahoma;
-	color: #FFFFFF;
+    
+    background-color: #BC8F8F;
+    
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: -25px;
+    margin-left: 198px;
+    display: table-cell;
+    padding: 7px 0 0 3px;
+    
+    text-align: center;
+    font: bold 14px Tahoma;
+    color: #FFFFFF;
 }
 
 img
